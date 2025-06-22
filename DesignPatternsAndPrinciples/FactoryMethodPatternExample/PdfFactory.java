@@ -1,4 +1,4 @@
-package FactoryMethodPatternExample;
+package DesignPatternsAndPrinciples.FactoryMethodPatternExample;
 
 public class PdfFactory extends DocumentFactory {
     @Override

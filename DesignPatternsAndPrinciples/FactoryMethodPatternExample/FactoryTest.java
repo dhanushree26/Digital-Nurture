@@ -1,4 +1,4 @@
-package FactoryMethodPatternExample;
+package DesignPatternsAndPrinciples.FactoryMethodPatternExample;
 
 public class FactoryTest {
     public static void main(String[] args) {
