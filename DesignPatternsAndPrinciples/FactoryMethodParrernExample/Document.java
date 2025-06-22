@@ -1,4 +1,4 @@
-package FactoryMethodPatternExample;
+package FactoryMethodParrernExample;
 
 public interface Document {
     void open();
