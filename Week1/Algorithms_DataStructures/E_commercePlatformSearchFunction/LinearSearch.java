@@ -1,4 +1,4 @@
-package Algorithms_DataStructures.E_commercePlatformSearchFunction;
+package Week1.Algorithms_DataStructures.E_commercePlatformSearchFunction;
 
 public class LinearSearch {
     public static Product linearSearchByName(Product[] products, String targetName) {
